@@ -1,0 +1,29 @@
+{
+  "name": "plei_",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "description": "plei_",
+  "author": {
+    "name": "ctcog",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "~1.8.1",
+    "bootstrap": "^3.3.5",
+    "connect": "^3.4.0",
+    "cookie-parser": "~1.3.3",
+    "debug": "~2.0.0",
+    "express": "~4.9.0",
+    "express-session": "^1.11.3",
+    "jade": "~1.6.0",
+    "method-override": "^2.3.5",
+    "morgan": "~1.3.0",
+    "passport": "^0.2.2",
+    "passport-facebook": "^2.0.0",
+    "serve-favicon": "~2.1.3",
+    "stylus": "0.42.3"
+  }
+}
